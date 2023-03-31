@@ -1,0 +1,15 @@
+.content {
+    scroll-behavior: smooth;
+    display: flex;
+    flex-direction: column;
+    max-width: 1100px;
+    text-align: start;
+}
+
+.content__row{
+    display: flex;
+    justify-content: space-between;
+    min-width: 820px;
+}
+
+

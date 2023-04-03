@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Cheat-Sheet/static/css/main.30988f29.css",
-    "main.js": "/React-Cheat-Sheet/static/js/main.b39e7361.js",
+    "main.css": "/React-Cheat-Sheet/static/css/main.196cf1b0.css",
+    "main.js": "/React-Cheat-Sheet/static/js/main.9a9f9dd7.js",
     "static/js/787.1be441c6.chunk.js": "/React-Cheat-Sheet/static/js/787.1be441c6.chunk.js",
-    "static/media/logo.svg": "/React-Cheat-Sheet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-Cheat-Sheet/index.html",
-    "main.30988f29.css.map": "/React-Cheat-Sheet/static/css/main.30988f29.css.map",
-    "main.b39e7361.js.map": "/React-Cheat-Sheet/static/js/main.b39e7361.js.map",
+    "main.196cf1b0.css.map": "/React-Cheat-Sheet/static/css/main.196cf1b0.css.map",
+    "main.9a9f9dd7.js.map": "/React-Cheat-Sheet/static/js/main.9a9f9dd7.js.map",
     "787.1be441c6.chunk.js.map": "/React-Cheat-Sheet/static/js/787.1be441c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30988f29.css",
-    "static/js/main.b39e7361.js"
+    "static/css/main.196cf1b0.css",
+    "static/js/main.9a9f9dd7.js"
   ]
 }
